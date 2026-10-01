@@ -1,0 +1,10 @@
+{
+  "description": "Enhance cognitive and motor skills with engaging, neuroscientific games designed for serious brain training enthusiasts, featuring strict progression and instant feedback.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
